@@ -34,7 +34,4 @@ Compatível com:
 ## 🧑‍💻 Autor
 
 **Gabriel Silva Sandes**  
-Desenvolvedor Web & Designer Gráfico focado em **interfaces modernas**, **experiência do usuário (UX)** e **integração entre front-end e back-end**.
-
-📧 [gabriel.sandes.web@proton.me]
-🌍 [LinkedIn](https://www.linkedin.com/in/gabriel-silva-sandes-9758a6386/) | [GitHub](https://github.com/gabrielsilvasandes)
+**Desenvolvedor Front-End e Designer Gráfico Freelancer**.
